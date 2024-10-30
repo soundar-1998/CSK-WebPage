@@ -1,0 +1,25 @@
+
+
+
+.menu{
+    margin-left:100px;
+    height:75vh;
+    position: relative;
+top:0;right:500;
+width :250px;
+background:linear-gradient(rgb(253, 252, 252),rgb(250, 248, 248));
+margin-top: 50px;
+font-size: medium;
+}h5{
+    color:blue;
+}footer a{
+    color:white;
+}footer a:hover{
+    color:yellow;
+    
+}.card1{
+    border-radius: 15px;
+    box-shadow:0px 17px white;
+}.footer{
+    height: 70px;
+}
